@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22055" started-at="2019-10-31T09:50:28Z" finished-at="2019-10-31T09:50:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22055" started-at="2019-10-31T09:50:28Z" finished-at="2019-10-31T09:50:50Z">
+      <class name="cloudBase.CloudTesting">
+        <test-method status="PASS" signature="start()[pri:0, instance:cloudBase.CloudTesting@6f7fd0e6]" name="start" duration-ms="22041" started-at="2019-10-31T15:20:28Z" finished-at="2019-10-31T15:20:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- cloudBase.CloudTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
